@@ -1,0 +1,13 @@
+Package: editxl
+Title: Edit table objects using Excel
+Version: 0.1.0
+Authors@R: 
+    person(given = "Christopher",
+           family = "Brown",
+           role = c("aut", "cre"),
+           email = "chris.brown@decisionpatterns.com.com")
+Description: Single function edit_excel launch Excel with a table object and 
+    allow editing of that object.
+License: MPL-2
+Encoding: UTF-8
+LazyData: true
